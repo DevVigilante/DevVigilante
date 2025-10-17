@@ -1,49 +1,65 @@
 .project {
   color: #c9d1d9;
   background: #161b22;
-  padding: 1em;
+  padding: 1rem;
   border-left: 4px solid var(--primary-color);
   margin-bottom: 1em;
   border-radius: 10px;
-  transition: transform 0.3s ease, border-color 0.3s ease;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  max-width: 400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+
+.project h3 {
+  font-size: 1.1rem;
+  margin: 0.5em 0 0.3em;
 }
 
 .project p {
   color: #c9d1d9;
-  font-size: 0.8em;
+  font-size: 0.9rem;
   font-weight: 300;
+  line-height: 1.4;
 }
 
 .project img {
-  height: 100px;
+  width: 80px;
+  height: 80px;
   padding: 0.5em;
   object-fit: contain;
   object-position: left;
   background: white;
   border-radius: 50%;
+  margin-bottom: 0.5em;
 }
 
 .project:hover {
-  transform: translateY(-3px);
+  transform: translateY(-5px) scale(1.02);
   border-left-color: #1f6feb;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
 .project .button_container {
   display: flex;
   justify-content: flex-end;
+  width: 100%;
+  margin-top: auto;
 }
 
 .project .github_btn {
   display: inline-block;
-  margin-top: 1em;
-  padding: 0.5em 1.2em;
-  font-size: 0.9em;
+  padding: 0.8em 1.5em;
   font-weight: 600;
   color: #ffffff;
   background-color: var(--primary-color);
   border: none;
   border-radius: 6px;
   text-decoration: none;
+  font-size: 0.85rem;
   transition: background-color 0.3s ease, transform 0.2s ease;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -53,20 +69,53 @@
   transform: translateY(-2px);
 }
 
-/* Project cards reveal */
-/* .project {
-  opacity: 0;
-  transform: translateX(-15px);
-  transition: opacity 0.5s ease, transform 0.5s ease;
+/* Responsive */
+@media (max-width: 768px) {
+  .project {
+    max-width: 100%;
+    padding: 0.8rem;
+  }
+
+  .project img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .project h3 {
+    font-size: 1rem;
+  }
+
+  .project p {
+    font-size: 0.8rem;
+  }
+
+  .project .github_btn {
+    font-size: 0.75rem;
+    padding: 0.8em 2em;
+  }
 }
 
-.project.show {
-  opacity: 1;
-  transform: translateX(0);
-  transition: opacity 0.5s ease, transform 0.5s ease;
-}
- */
-.project:hover {
-  transform: translateY(-5px) scale(1.02);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+@media (max-width: 480px) {
+  .project {
+    padding: 0.6rem;
+    border-left: 3px solid var(--primary-color);
+  }
+
+  .project img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .project h3 {
+    font-size: 0.95rem;
+  }
+
+  .project p {
+    font-size: 0.7rem;
+  }
+
+  .project .github_btn {
+    font-size: 0.6rem;
+    padding: 0.6em 1.8em;
+  }
 }

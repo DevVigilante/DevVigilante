@@ -1,7 +1,7 @@
 "use client";
 import styles from "./Project.module.css";
 
-export default function Section({title, content, link, img}) {
+export default function Project({title, content, link, img}) {
   return (
     <div className={styles.project}>
       <img src={img} alt="" />

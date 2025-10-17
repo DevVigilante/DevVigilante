@@ -1,18 +1,18 @@
 .section {
   background: #0d1117;
-  max-width: 900px;
   margin: auto;
-  padding: 2rem;
+  padding: 2em;
 }
 
-.section div {
-  font-size: 1.1rem;
-  margin-top: 0.5rem;
+.section > h2 {
+  font-size: 1.8em;
+  margin: 1em 0em;
+  color: var(--primary-color);
+}
+
+.section > div > p {
+  font-size: 1em;
+  margin: 1em 0em;
   color: #c9d1d9;
 }
 
-.section h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  color: var(--primary-color);
-}

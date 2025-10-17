@@ -36,7 +36,7 @@ function aboutMe() {
 
 function projects() {
   return (
-    <div>
+    <div className={styles.projects}>
       <Project
       title="BlockIDLE"
       content="

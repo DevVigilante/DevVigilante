@@ -10,7 +10,7 @@ export default function Header({title, links = [], phrases, fadein}) {
     typingTextAni(el, cursor, phrases);
   }, []);
   return (
-    <div className={`${header.container} ${fadein} ${header.intro}`}>
+    <div className={`${fadein} ${header.intro}`}>
       <h1>{title}</h1>
       <p className={header.reserved_text}><span className={header.typing_text}></span><span className={header.cursor}>|</span></p>
       <div className={header.links}>
