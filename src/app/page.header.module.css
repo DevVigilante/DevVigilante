@@ -18,10 +18,17 @@
   color: #aab1c0;
 }
 
+.intro .links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5em;
+}
+
 .intro .links a {
   color: var(--primary-color);
   text-decoration: none;
-  margin: 0 0.5rem;
   font-weight: 600;
   transition: all 0.6 ease;
 }
