@@ -37,7 +37,7 @@
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   
-  #intro #links a:hover {
+  .intro .links a:hover {
     color: #d946ef;
     text-shadow: 0 0 5px #d946ef;
   }
