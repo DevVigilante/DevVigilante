@@ -4,11 +4,11 @@ import header from "./page.header.module.css";
 import typingTextAni from "../utils.js"
 import { useEffect } from "react";
 
-export default function Header({title, links = []}) {
+export default function Header({title, links = [], phrases}) {
   useEffect(() => {
     const el = document.querySelector(`.${header.typing_text}`);
     const cursor = document.querySelector(`.${header.cursor}`);
-    typingTextAni(el, cursor);
+    typingTextAni(el, cursor, phrases);
   }, []);
   return (
     <div className={`${styles.container} ${styles.fadein} ${header.intro}`}>

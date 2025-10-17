@@ -2,16 +2,7 @@
 // const textEl = document.getElementById("typing-text");
 // const cursorEl = document.getElementById("cursor");
 
-export default function typingTextAni(textEl, cursorEl) {
-  const phrases = [
-    "Android Developer",
-    "Java | Shell | Gradle knowledge",
-    "Self taught",
-    "Front end website designer",
-    "Adapting new programming languages",
-    "Open Source project Developer"
-  ];
-
+export default function typingTextAni(textEl, cursorEl, phrases) {
   let phraseIndex = 0;
   let letterIndex = 0;
   let isDeleting = false;
