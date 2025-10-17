@@ -1,0 +1,43 @@
+.intro {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: linear-gradient(to right, #1f1f2f, #111827);
+  color: #e6edf3;
+  border-bottom: 2px solid #2f81f7;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.intro h1 {
+  font-size: 2em;
+  margin-bottom: 0.5rem;
+}
+
+.intro p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  color: #aab1c0;
+}
+
+.intro .links a {
+  color: var(--primary-color);
+  text-decoration: none;
+  margin: 0 0.5rem;
+  font-weight: 600;
+  transition: all 0.6 ease;
+}
+
+.reserved_text {
+  line-height: 1.5em;     /* Height of each line */
+  min-height: 3em;        /* 2 lines × 1.5em = 3em */
+}
+
+.typing_text {
+  font-size: 1.2rem;
+  color: #c9d1d9;
+  font-weight: 600;
+}
+
+.cursor {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
