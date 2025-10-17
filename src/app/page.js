@@ -4,7 +4,19 @@ import Header from "./header.js"
 export default function Home() {
   return (
     <div>
-      <Header title="Dev Kumar"/>
+      <Header
+      title="Dev Kumar"
+      links={[
+        {
+          link: "https://www.instagram.com/innovative_cst?igsh=MWQ0bDFsbGJ0NmpobQ==",
+          text: "Instagram"
+        },
+        {
+          link: "https://www.github.com/DevVigilante",
+          text: "GitHub"
+        }
+      ]}
+      />
     </div>
   );
 }
