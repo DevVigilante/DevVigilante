@@ -1,7 +1,15 @@
+"use client";
 import styles from "./page.module.css";
 import header from "./page.header.module.css";
+import typingTextAni from "../utils.js"
+import { useEffect } from "react";
 
 export default function Header() {
+  useEffect(() => {
+    const el = document.querySelector(`.${header.typing_text}`);
+    const cursor = document.querySelector(`.${header.cursor}`);
+    typingTextAni(el, cursor);
+  }, []);
   return (
     <div className={`${styles.container} ${styles.fadein} ${header.intro}`}>
       <h1>Dev Kumar</h1>
