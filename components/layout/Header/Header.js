@@ -1,17 +1,16 @@
 "use client";
-import styles from "./page.module.css";
-import header from "./page.header.module.css";
-import typingTextAni from "../utility/typing-text-animation.js"
+import header from "./Header.module.css";
+import typingTextAni from "../../../libs/typing-text-animation.js"
 import { useEffect } from "react";
 
-export default function Header({title, links = [], phrases}) {
+export default function Header({title, links = [], phrases, fadein}) {
   useEffect(() => {
     const el = document.querySelector(`.${header.typing_text}`);
     const cursor = document.querySelector(`.${header.cursor}`);
     typingTextAni(el, cursor, phrases);
   }, []);
   return (
-    <div className={`${styles.container} ${styles.fadein} ${header.intro}`}>
+    <div className={`${header.container} ${fadein} ${header.intro}`}>
       <h1>{title}</h1>
       <p className={header.reserved_text}><span className={header.typing_text}></span><span className={header.cursor}>|</span></p>
       <div className={header.links}>

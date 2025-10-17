@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import Header from "./header.js"
+import Header from "../../components/layout/Header/Header.js"
 
 const title = "Dev Kumar";
 

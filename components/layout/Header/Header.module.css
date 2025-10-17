@@ -1,3 +1,9 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+}
+
 .intro {
   text-align: center;
   padding: 4rem 2rem;
