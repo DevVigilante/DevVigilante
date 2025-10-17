@@ -1,7 +1,3 @@
-
-// const textEl = document.getElementById("typing-text");
-// const cursorEl = document.getElementById("cursor");
-
 export default function typingTextAni(textEl, cursorEl, phrases) {
   let phraseIndex = 0;
   let letterIndex = 0;
