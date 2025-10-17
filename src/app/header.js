@@ -1,7 +1,7 @@
 "use client";
 import styles from "./page.module.css";
 import header from "./page.header.module.css";
-import typingTextAni from "../utils.js"
+import typingTextAni from "../utility/typing-text-animation.js"
 import { useEffect } from "react";
 
 export default function Header({title, links = [], phrases}) {
