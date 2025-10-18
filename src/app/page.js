@@ -51,7 +51,7 @@ export default function Home() {
   }, []);
   return (
     <div className={styles.page}>
-      <Header title={title} phrases={myPhrases} links={socialLinks} className={styles.fadein}/>
+      <Header phrases={myPhrases} links={socialLinks} className={styles.fadein}/>
       <Section title="About me" content={aboutMe()} className={styles.fadein}/>
       <Projects/>
     </div>

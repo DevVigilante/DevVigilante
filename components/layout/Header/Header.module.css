@@ -1,10 +1,11 @@
 .intro {
   text-align: center;
   padding: 10em 2em;
-  background: linear-gradient(to right, #1f1f2f, #111827);
-  color: #e6edf3;
   border-bottom: 2px solid #2f81f7;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  background-image: url("/1760794085258.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .intro h1 {
@@ -15,7 +16,7 @@
 .intro p {
   font-size: 1em;
   margin-bottom: 1.5em;
-  color: #aab1c0;
+  color: white;
 }
 
 .intro .links {
@@ -32,6 +33,9 @@
   text-decoration: none;
   font-weight: 600;
   transition: all 0.6 ease;
+  background-color: white;
+  border-radius: 20px;
+  padding: 0.5em 1em;
 }
 
 .reserved_text {
