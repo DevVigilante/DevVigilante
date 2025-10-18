@@ -6,7 +6,7 @@ import Project from "../../components/layout/Project/Project.js"
 
 export default function Projects() {
   return (
-    <section className={`${section.section}`}>
+    <section className={`${section.section} ${styles.fadein}`}>
       <h2>Projects</h2>
       <div>
         <div className={styles.projects}>

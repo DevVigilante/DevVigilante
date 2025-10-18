@@ -50,7 +50,7 @@ export default function Home() {
     animator(elements, styles.visible);
   }, []);
   return (
-    <div>
+    <div className={styles.page}>
       <Header title={title} phrases={myPhrases} links={socialLinks} className={styles.fadein}/>
       <Section title="About me" content={aboutMe()} className={styles.fadein}/>
       <Projects/>
