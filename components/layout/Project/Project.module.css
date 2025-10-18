@@ -14,6 +14,18 @@
   box-sizing: border-box;
 }
 
+.project {
+  opacity: 0;
+  transform: translateX(-15px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.project.show {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
 .project h3 {
   font-size: 1.1rem;
   margin: 0.5em 0 0.3em;

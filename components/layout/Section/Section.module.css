@@ -1,12 +1,13 @@
 .section {
   background: #0d1117;
   margin: auto;
-  padding: 2em;
+  padding: 1em 2em;
+  border-bottom: 1px solid #9f9f9f;
 }
 
 .section > h2 {
   font-size: 1.8em;
-  margin: 1em 0em;
+  margin: 0.5em 0em;
   color: var(--primary-color);
 }
 
