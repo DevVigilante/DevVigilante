@@ -9,6 +9,7 @@ import animator from "../../libs/page-elements-animation.js"
 import Header from "../../components/layout/Header/Header.js"
 import Section from "../../components/layout/Section/Section.js"
 import Projects from "./Projects.js"
+import Skills from "./Skills.js"
 
 import { useEffect } from "react";
 
@@ -34,6 +35,14 @@ const socialLinks = [
   }
 ];
 
+const skills = [
+  "Java, HTML, CSS, JavaScript, Shell/Bash",
+  "Gradle, JDK, Build Systems",
+  "Android SDK",
+  "Android Environment",
+  "Git, GitHub Actions, CI/CD"
+];
+
 function aboutMe() {
   return (
     <p>
@@ -54,6 +63,11 @@ export default function Home() {
       <Header phrases={myPhrases} links={socialLinks} className={styles.fadein}/>
       <Section title="About me" content={aboutMe()} className={styles.fadein}/>
       <Projects/>
+      <Skills>
+        {skills.map((item, index) => (
+          <li>{item}</li>
+        ))}
+      </Skills>
     </div>
   );
 }
