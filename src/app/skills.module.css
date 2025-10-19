@@ -1,0 +1,43 @@
+/* Base styles (for mobile devices) */
+.sectionStyle {
+  background-color: #0d1117;
+  margin: auto;
+  padding: 1em 2em;
+  border-bottom: 1px solid #9f9f9f;
+}
+
+.skillsHeadingStyle {
+  font-size: 2rem;
+  margin: 0.5em 0em;
+  color: var(--primary-color);
+}
+
+.unorderedListStyle {
+  margin-bottom: 2em;
+  margin-left: 1em;
+}
+
+.unorderedListStyle > li {
+  color: #c9d1d9;
+  font-size: 1em;
+}
+
+/* For (≥600px) */
+@media (min-width: 600px) {
+  .sectionStyle {
+    
+  }
+  
+  .skillsHeadingStyle {
+    margin: 1em 1em;
+  }
+  
+  .unorderedListStyle {
+    margin-left: 2em;
+  }
+  
+  .unorderedListStyle > li {
+    margin: 0em 1em;
+    font-size: 0.6em;
+  }
+}

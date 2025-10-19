@@ -9,6 +9,7 @@
   min-height: 100vh;
   font-family: var(--font-geist-sans);
   background: #0d1117;
+  font-size: 18px;
 }
 
 .container {

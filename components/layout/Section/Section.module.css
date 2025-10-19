@@ -5,15 +5,36 @@
   border-bottom: 1px solid #9f9f9f;
 }
 
-.section > h2 {
-  font-size: 1.8em;
+.section h2 {
+  font-size: 2em;
   margin: 0.5em 0em;
   color: var(--primary-color);
 }
 
-.section > div > p {
+.heading {
+  font-size: 2em;
+  margin: 0.5em 0em;
+  color: var(--primary-color);
+}
+
+.para {
   font-size: 1em;
   margin: 1em 0em;
   color: #c9d1d9;
 }
 
+/* For (≥600px) */
+@media (min-width: 600px) {
+  .section {
+    padding: 1em 4em;
+  }
+  
+  .heading {
+    margin: 2em 0em;
+  }
+  
+  .para {
+    margin: 2em 0em;
+    font-size: 0.6em;
+  }
+}
