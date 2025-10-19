@@ -17,9 +17,9 @@ const title = "Dev Kumar";
 
 const myPhrases = [
     "Android Developer",
-    "Java | Shell | Gradle knowledge",
-    "Self taught",
     "Front end website designer",
+    "Java | Shell | Gradle skills",
+    "Self taught",
     "Adapting new programming languages",
     "Open Source project Developer"
 ];
@@ -27,11 +27,13 @@ const myPhrases = [
 const socialLinks = [
   {
     link: "https://www.instagram.com/innovative_cst?igsh=MWQ0bDFsbGJ0NmpobQ==",
-    text: "Instagram"
+    text: "Instagram",
+    background: "linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888)"
   },
   {
     link: "https://www.github.com/DevVigilante",
-    text: "GitHub"
+    text: "GitHub",
+    background: "#000000"
   }
 ];
 
@@ -39,6 +41,7 @@ const skills = [
   "Java, HTML, CSS, JavaScript, Shell/Bash",
   "Gradle, JDK, Build Systems",
   "Android SDK",
+  "Nextjs, React, Nodejs",
   "Android Environment",
   "Git, GitHub Actions, CI/CD"
 ];

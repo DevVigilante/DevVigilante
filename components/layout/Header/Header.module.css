@@ -29,13 +29,20 @@
 }
 
 .intro .links a {
-  color: var(--primary-color);
   text-decoration: none;
   font-weight: 600;
-  transition: all 0.6 ease;
-  background-color: white;
+  color: white;
   border-radius: 20px;
   padding: 0.5em 1em;
+  transition: all 0.1s ease;
+}
+
+.intro .links a:hover {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  transform: translateY(-5px) scale(1.02);
+  color: white;
+  background: var(--primary-color);
 }
 
 .reserved_text {
