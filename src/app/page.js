@@ -309,30 +309,55 @@ const timelineData = [
   },
   {
     time: "March 2024",
-    title: "End of School Chapter",
+    title: "End of 10th Board",
     content: (
       <>
         <p>
-          <strong>11 March</strong> marked the end of my school journey. It was
+          <strong>11 March</strong> marked the end of my old school journey. It was
           emotional yet empowering, as I transitioned from a student to an
-          independent developer focused on growth and learning.
+          developer focused on growth and learning.
         </p>
       </>
     ),
   },
   {
-    time: "April 2024 – 2025 (Present)",
+    time: "April 2024 – March 2025",
     title: "Still Building, Still Dreaming",
     content: (
       <>
         <p>
-          Development on <strong>AndroidAppStudio</strong> continues, now evolved
-          into <strong>BlockIDLE</strong> — a block-based coding interface for
-          Android.
+          During this period, I was in <strong>11th grade</strong>, continuing
+          development on <strong>AndroidAppStudio</strong>, which evolved into{" "}
+          <strong>BlockIDLE</strong> — a block-based coding interface for Android.
         </p>
         <p>
-          During this time, I also learned <em>shell/bash</em> scripting and
-          studied <em>Python</em> and <em>MySQL</em> basics.
+          I also learned <em>shell/bash</em> scripting and studied{" "}
+          <em>Python</em> and <em>MySQL</em> basics.
+        </p>
+      </>
+    )
+  },
+  {
+    time: "March 2025 – June 2025",
+    title: "DSA Questions and project continue",
+    content: (
+      <>
+        <p>
+          I focused mainly on improving <strong>Block IDLE</strong> and practicing{" "}
+          <strong>DSA questions</strong>.
+        </p>
+      </>
+    )
+  },
+  {
+    time: "June 2025 – October 2025",
+    title: "Focused on physics",
+    content: (
+      <>
+        <p>
+          I paused coding activities to prepare for my{" "}
+          <strong>12th board exams</strong>, studying through{" "}
+          <strong>YouTube</strong> and other online resources.
         </p>
         <p>
           From curiosity to creation, I’ve grown into a self-taught developer
@@ -340,8 +365,8 @@ const timelineData = [
         </p>
         <p>This is just the beginning of my journey.</p>
       </>
-    ),
-  },
+    )
+  }
 ];
 
 export default function Home() {
