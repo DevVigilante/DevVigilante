@@ -24,7 +24,7 @@
 # Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=B83089)](https://instagram.com/innovative_cst)
-[![Discord](https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=instagram&logoColor=5865F2)](https://discord.com/invite/bKxnSacY)
+[![Discord](https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=instagram&logoColor=5865F2)](https://discord.gg/RM5qaZs4kd)
 
 # Languages and Tools:
 
