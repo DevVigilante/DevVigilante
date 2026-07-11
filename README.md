@@ -13,7 +13,7 @@
 
 <h3 align="center">Dev Kumar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevVigilante&label=Profile%20views&color=0e75b6&style=flat" alt="DevVigilante" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=DevVigilante&style=for-the-badge&color=0e75b6)
 
 - I’m currently working on **Logicodium IDE**
 - I’m currently learning **C++, Kotlin**
@@ -21,174 +21,30 @@
 - How to reach me **kadev70@gmail.com**
 - Fun fact **I love physics**
 
-<h3 align="left">Connect with me:</h3>
-<div align="left" style="background: #fff; border-radius: 0.5em; padding: 20px;">
-  <a href="https://instagram.com/innovative_cst" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="innovative_cst"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://discord.gg/https://discord.com/invite/bKxnSacY"
-    target="blank"
-    ><img
-      align="center"
-      src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"
-      alt="https://discord.com/invite/bKxnSacY"
-      height="30"
-      width="40"
-  /></a>
-</div>
+# Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" style="background: #fff; border-radius: 0.5em; padding: 20px;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=B83089)](https://instagram.com/innovative_cst)
+[![Discord](https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=instagram&logoColor=5865F2)](https://discord.com/invite/bKxnSacY)
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.brandfetch.io/idIc44v7t7/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668080547086"
-      alt="gradle"
-      width="40"
-      height="40"
-    />
-  </a>
-</div>
+# Languages and Tools:
+
+![Android](https://img.shields.io/badge/Android-21262d?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Java](https://img.shields.io/badge/Java-21262d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-21262d?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-21262d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-21262d?style=for-the-badge&logo=css&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-21262d?style=for-the-badge&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-21262d?style=for-the-badge&logo=pandas&logoColor=150458)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-21262d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=F05032)
+![Gradle](https://img.shields.io/badge/Gradle-21262d?style=for-the-badge&logo=gradle&logoColor=02303A)
+![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-21262d?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 <p>
   <img
