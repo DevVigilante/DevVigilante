@@ -55,3 +55,13 @@
     alt="DevVigilante"
   />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVigilante&theme=dark&area=true&hide_border=true&color=708090&point=24292e&text_color=ffffff" alt="DevVigilante Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://gist.github.com/DevVigilante/dd17c5c279e27980bdcc03b8c7cf1134/">
+    <img src="https://github-readme-stats-murex-theta-70.vercel.app/api/gist?id=dd17c5c279e27980bdcc03b8c7cf1134&refresh=1&theme=dark" alt="Gist Card" />
+  </a>
+</p>
